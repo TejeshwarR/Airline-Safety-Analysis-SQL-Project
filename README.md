@@ -152,4 +152,5 @@ The analysis was performed entirely using SQL, focusing on:
 ## 👤 Author
 
 **Tejeshwar R**
+
 Data Analyst | SQL | Power BI | Python |  Excel  | Statistics
