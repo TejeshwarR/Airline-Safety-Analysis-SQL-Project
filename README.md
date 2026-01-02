@@ -149,8 +149,6 @@ The analysis was performed entirely using SQL, focusing on:
 ---
 
 
----
-
 ## 👤 Author
 
 **Tejeshwar R**
